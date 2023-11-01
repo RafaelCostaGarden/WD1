@@ -1,0 +1,53 @@
+/*
+Author: Rafael Costa
+Date: October 31st, 2023
+File Name: styles.css
+*/
+
+
+/* Style rules for header */
+header {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 1.10em;
+    text-align: center;
+    padding: 1%;
+}
+
+/* Style rules for table */
+table {
+    width: 100%;
+    border: 1px solid blue;
+    margin: 0 auto;
+}
+
+/* Style rules for table header */
+th {
+    color: white;
+    background-color: blue;
+}
+
+/* Style rules for table data */
+th, td {
+    border: 1px solid blue;
+}
+
+.smallcourse {
+    background-color: lightgreen;
+    color: green;
+}
+
+.mediumcourse {
+    background-color: lightblue;
+    color: blue
+}
+
+.largecourse {
+    color: red;
+    background-color: rgb(230,180,180);
+}
+
+.finalcourse {
+    color: black;
+    background-color: cyan;
+}

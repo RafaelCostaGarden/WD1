@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ch1 Extending your Knowledge</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <p>Chapter 1, Extend your Knowledge</p>
+    <p>Rafael Costa, September 26th, 2023</p>
+    <hr>
+
+
+    <p>If you include a piece of non-text on your website, such as an image, one should also attempt to include a
+        text description of said element if possible. This can be done through methods such as using alt attributes
+        on image elements for longer descriptions, as well as including a supplimentary text version of the info being described in the element.
+    </p>
+
+    <p>For prerecorded audio and video, you can include captions to transcribe when someone is speaking in the audio or video.
+        With a higher budget, one can even set up live captioning for a livestream. When captions are not enough to deliver all
+        the info of audio or video, you can implement a second optional audio track which provides an audio description of what is
+        happening in the video.
+    </p>
+
+    <p>The content of your website should be displayed in a clear, malleable format. Information should be sequenced in an
+        order that makes sense, as well as making it malleable to different image sizes, orientations, and readers.
+    </p>
+
+    <p>Making your important information, such as your text and images, contrast well with your background elements will aid 
+        practically almost everyone who is either colourblind or has weak sight. Responsible use of colour can also produce
+        this effect. You should also not include any autoplaying audio or video without a way to pause or stop it. You should also
+        make it easy for others to resize the text on a webpage without its elements breaking, clashing into each other, or being hidden
+        behind each other. Content that is made to appear when you hover over a certain element should be made to persist after the
+        cursor is removed as well as dismissable.
+    </p>
+</body>
